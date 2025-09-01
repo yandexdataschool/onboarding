@@ -1,7 +1,3 @@
-# Playground:
-
-https://diplodoc-platform.github.io/playground/?mode=PC
-
 # How to build
 
 ## Local build:
