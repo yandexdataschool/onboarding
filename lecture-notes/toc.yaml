@@ -1,0 +1,7 @@
+title: Онбординг Школы Анализа Данных 2025
+href: index.yaml
+items:
+  - name: Общая информация
+    href: index.md
+  - name: Git
+    href: git.md
